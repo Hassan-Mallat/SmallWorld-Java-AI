@@ -38,10 +38,11 @@ This project demonstrates core Object-Oriented Programming (OOP) principles and 
 ## 📂 Project Structure
 
 ```text
-src/
-├── model/
-│   ├── board/       # Logic for Board, Tile, and Biome
-│   └── game/        # Logic for Game, Player, Unit (Abstract), and CombatManager
-├── vuecontroleur/   # UI logic (Swing JFrame, ImagePanel)
-├── Main.java        # Entry point
-└── data/            # Game assets (icons and terrain images)
+GameCode/
+├── src/
+│   ├── model/
+│   │   ├── board/       # Logic for Board, Tile, and Biome
+│   │   └── game/        # Logic for Game, Player, Unit (Abstract), and CombatManager
+│   ├── vuecontroleur/   # UI logic (Swing JFrame, ImagePanel)
+│   └── Main.java        # Entry point
+└── data/                # Game assets (icons and terrain images)
