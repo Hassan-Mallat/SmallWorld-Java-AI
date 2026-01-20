@@ -1,6 +1,6 @@
 # ⚔️ Small World with AI Player
 
-**Small World with AI Player** is a turn-based tactical strategy game developed in Java. The game pits a human player against an intelligent computer opponent on a procedurally generated grid. The goal is to control territory, manage unit stacks, and utilize biome advantages to defeat the opponent.
+**Small World with AI Player** is a simple turn-based tactical strategy game developed in Java. The game pits a human player against an intelligent computer opponent on a procedurally generated grid. The goal is to control territory, manage unit stacks, and utilize biome advantages to defeat the opponent.
 
 ## 🚀 Features
 
